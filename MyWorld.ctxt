@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment10.params=
+comment10.target=int\ getRandomY()
+comment11.params=
+comment11.target=int\ getRandomYAvoidEnemies()
+comment12.params=newY
+comment12.target=boolean\ isTooCloseToEnemies(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ nextLevel()
+comment5.params=
+comment5.target=void\ decreaseLives()
+comment6.params=
+comment6.target=int\ getLives()
+comment7.params=
+comment7.target=void\ increaseScore()
+comment8.params=
+comment8.target=void\ prepareNextLevel()
+comment9.params=
+comment9.target=int\ getRandomX()
+numComments=13

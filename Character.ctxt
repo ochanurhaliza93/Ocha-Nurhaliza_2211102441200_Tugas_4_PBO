@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=
+comment1.target=Character()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkForCollision()
+comment4.params=
+comment4.target=void\ increaseScore()
+comment5.params=
+comment5.target=void\ handleKeyPress()
+comment6.params=
+comment6.target=void\ addParticles()
+comment7.params=
+comment7.target=void\ takeDamage()
+numComments=8
